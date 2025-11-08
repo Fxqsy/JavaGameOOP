@@ -7,6 +7,6 @@ Java (JDK 17+)
 
 Object-Oriented Programming (OOP)
 
-Optional: JavaFX / Swing / AWT for GUI
+File I/O
 
-File I/O for persistence
+SQL DataBases
