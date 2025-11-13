@@ -6,6 +6,10 @@ A fully object-oriented Java game that showcases the power of OOP principles in 
 
 4 unique levels, each introducing new gameplay mechanics
 
+Multiple different enemies, each with a different mechanic
+
+In-game SFX and music
+
 Progressive design — every mechanic learned is essential to beat the game
 
 Structured using core OOP concepts: encapsulation, inheritance, polymorphism, and abstraction
