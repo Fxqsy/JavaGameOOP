@@ -1,8 +1,8 @@
- JavaGameOOP
+# JavaGameOOP
 
 A fully object-oriented Java game that showcases the power of OOP principles in game design. Built with a focus on clean architecture, modular structure, and maintainable code, this project combines solid programming fundamentals with fun and challenging gameplay.
 
-  Features
+# Features
 
 4 unique levels, each introducing new gameplay mechanics
 
@@ -16,7 +16,7 @@ Structured using core OOP concepts: encapsulation, inheritance, polymorphism, an
 
 Smooth integration of file I/O and SQL databases for persistent data and player progress
 
- Technologies Used
+# Technologies Used
 
 Java (JDK 17+)
 
